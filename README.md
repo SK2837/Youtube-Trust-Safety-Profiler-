@@ -131,14 +131,4 @@ python src/scenarios/scenario_testing.py --all-scenarios
 
 > **Synthetic behavioral signals** are clearly documented with generative assumptions.
 
-## License
-
-This is a portfolio/educational project. Datasets used are subject to their original licenses (Jigsaw/Kaggle).
-
-## Contact
-
-For questions or discussion about this project, please reach out via [your contact method].
-
----
-
-**Disclaimer**: This is a hypothetical pre-launch risk assessment exercise. It does not represent actual YouTube features, data, or safety systems.
+s is a hypothetical pre-launch risk assessment exercise. It does not represent actual YouTube features, data, or safety systems.
