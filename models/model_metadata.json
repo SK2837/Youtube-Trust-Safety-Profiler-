@@ -1,0 +1,10 @@
+{
+  "auc": 1.0,
+  "feature_importance": {
+    "message_velocity": 0.15266354382038116,
+    "burst_score": 0.6938527822494507,
+    "account_age_days": 0.06022343412041664,
+    "activity_ratio": 0.09094750136137009,
+    "reply_density": 0.002312701428309083
+  }
+}
