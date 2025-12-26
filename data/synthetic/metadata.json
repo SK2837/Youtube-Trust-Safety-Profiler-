@@ -1,0 +1,17 @@
+{
+  "generator_seed": 42,
+  "generation_timestamp": "2025-12-23T12:35:33.571994",
+  "datasets": {
+    "message_velocity": 1000,
+    "burst_patterns": 500,
+    "account_features": 1000,
+    "reply_graph_density": 300,
+    "unified_behavioral": 10000
+  },
+  "assumptions": {
+    "baseline_abuse_rate": 0.1,
+    "coordinated_attack_rate": 0.15,
+    "throwaway_account_rate": 0.12,
+    "description": "All behavioral signals are synthetically generated based on threat modeling assumptions"
+  }
+}

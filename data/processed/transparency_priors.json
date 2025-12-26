@@ -1,0 +1,8 @@
+{
+  "harassment": 0.018,
+  "hate_speech": 0.012,
+  "spam": 0.035,
+  "misinformation": 0.008,
+  "coordinated_abuse": 0.003,
+  "overall_abuse": 0.025
+}
